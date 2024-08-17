@@ -2,13 +2,34 @@
 //using Board.Application.AppData.Posts.Services;
 //using Board.Contracts;
 //using Board.Contracts.Posts;
+
+
+using Microsoft.EntityFrameworkCore;
+
+using Microsoft.OpenApi.Models;
+
+
+
 using Board.Application.AppData;
 using Board.Application.AppData.Posts.Services;
 using Board.Contracts;
 using Board.Contracts.Posts;
-using Microsoft.OpenApi.Models;
+using Board.Infrastructure.DataAccess.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+// Добавляем DbContext
+builder.Services.AddSingleton<IDbContextConfiguration<BoardDbContext>, BoardDbContextConfiguration>();
+
+builder.Services.AddDbContext<BoardDbContext>((Action<IServiceProvider, DbContextOptionsBuilder>)
+    ((sp, dbOptions) => sp.GetRequiredService<IDbContextOptionsConfigurator<BoardDbContext>>()
+        .Configure((DbContextOptionsBuilder<BoardDbContext>)dbOptions)));
+
+builder.Services.AddScoped((Func<IServiceProvider, DbContext>)(sp => sp.GetRequiredService<BoardDbContext>()));
+
+
+
 
 // Add services to the container.
 builder.Services.AddScoped<IPostService, PostService>();
