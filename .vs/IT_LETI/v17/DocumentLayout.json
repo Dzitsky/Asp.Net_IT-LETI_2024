@@ -3,51 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.infrastructure.dataaccess\\contexts\\boarddbcontextconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|solutionrelative:src\\board.infrastructure.dataaccess\\contexts\\boarddbcontextconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.infrastructure.dataaccess\\boarddbcontextconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|solutionrelative:src\\board.infrastructure.dataaccess\\boarddbcontextconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.infrastructure.dataaccess\\interfaces\\idbcontexstoptionsconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|solutionrelative:src\\board.infrastructure.dataaccess\\interfaces\\idbcontexstoptionsconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F081F19-4CBB-4C87-8AD5-BE046F76B3EB}|src\\Board.Domain\\Board.Domain.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.domain\\adverts\\advert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F081F19-4CBB-4C87-8AD5-BE046F76B3EB}|src\\Board.Domain\\Board.Domain.csproj|solutionrelative:src\\board.domain\\adverts\\advert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.infrastructure.dataaccess\\contexts\\boarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|solutionrelative:src\\board.infrastructure.dataaccess\\contexts\\boarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F081F19-4CBB-4C87-8AD5-BE046F76B3EB}|src\\Board.Domain\\Board.Domain.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.domain\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F081F19-4CBB-4C87-8AD5-BE046F76B3EB}|src\\Board.Domain\\Board.Domain.csproj|solutionrelative:src\\board.domain\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.host.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:src\\board.host.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.host.api\\board.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:src\\board.host.api\\board.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.infrastructure.dataaccess\\board.infrastructure.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{52A35786-D750-41A1-89F4-F3781AC0682D}|src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|solutionrelative:src\\board.infrastructure.dataaccess\\board.infrastructure.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.host.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:src\\board.host.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.host.api\\board.host.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:src\\board.host.api\\board.host.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.host.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{457D5C24-927A-4FFB-801A-7AC3004A87DE}|src\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:src\\board.host.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF688578-4098-4915-BA42-060308AC9E71}|src\\Board.Contracts\\Board.Contracts.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.contracts\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF688578-4098-4915-BA42-060308AC9E71}|src\\Board.Contracts\\Board.Contracts.csproj|solutionrelative:src\\board.contracts\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF688578-4098-4915-BA42-060308AC9E71}|src\\Board.Contracts\\Board.Contracts.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.contracts\\attributes\\namevalidationattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF688578-4098-4915-BA42-060308AC9E71}|src\\Board.Contracts\\Board.Contracts.csproj|solutionrelative:src\\board.contracts\\attributes\\namevalidationattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0492F160-AA5E-43FC-BB82-894F61DF628F}|src\\Board.Infrastucture\\Board.Infrastucture\\Board.Infrastucture.csproj|c:\\users\\\u0441\u0432\u0435\u0442\u0430\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\board.infrastucture\\board.infrastucture\\board.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0492F160-AA5E-43FC-BB82-894F61DF628F}|src\\Board.Infrastucture\\Board.Infrastucture\\Board.Infrastucture.csproj|solutionrelative:src\\board.infrastucture\\board.infrastucture\\board.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,160 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Board.Host.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Board.Host.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-16T12:59:58.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IDbContexstOptionsConfigurator.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Interfaces\\IDbContexstOptionsConfigurator.cs",
-              "RelativeDocumentMoniker": "src\\Board.Infrastructure.DataAccess\\Interfaces\\IDbContexstOptionsConfigurator.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Interfaces\\IDbContexstOptionsConfigurator.cs",
-              "RelativeToolTip": "src\\Board.Infrastructure.DataAccess\\Interfaces\\IDbContexstOptionsConfigurator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:23:12.795Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BoardDbContextConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDbContextConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDbContextConfiguration.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDbContextConfiguration.cs",
-              "RelativeToolTip": "src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDbContextConfiguration.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAA8AAAA",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\BoardDbContextConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Board.Infrastructure.DataAccess\\BoardDbContextConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\BoardDbContextConfiguration.cs",
+              "RelativeToolTip": "src\\Board.Infrastructure.DataAccess\\BoardDbContextConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:13:25.594Z",
+              "WhenOpened": "2024-08-17T14:07:24.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BoardDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDBContext.cs",
-              "RelativeDocumentMoniker": "src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDBContext.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDBContext.cs",
-              "RelativeToolTip": "src\\Board.Infrastructure.DataAccess\\Contexts\\BoardDBContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Domain\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "src\\Board.Domain\\Categories\\Category.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Domain\\Categories\\Category.cs",
+              "RelativeToolTip": "src\\Board.Domain\\Categories\\Category.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:49:46.806Z",
+              "WhenOpened": "2024-08-17T14:03:55.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Advert.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Domain\\Adverts\\Advert.cs",
+              "RelativeDocumentMoniker": "src\\Board.Domain\\Adverts\\Advert.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Domain\\Adverts\\Advert.cs",
+              "RelativeToolTip": "src\\Board.Domain\\Adverts\\Advert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:02:52.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Board.Host.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Program.cs",
-              "RelativeToolTip": "src\\Board.Host.Api\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T12:07:30.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Board.Infrastructure.DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
-              "RelativeDocumentMoniker": "src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
-              "RelativeToolTip": "src\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "Board.Infrastucture",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastucture\\Board.Infrastucture\\Board.Infrastucture.csproj",
+              "RelativeDocumentMoniker": "src\\Board.Infrastucture\\Board.Infrastucture\\Board.Infrastucture.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Infrastucture\\Board.Infrastucture\\Board.Infrastucture.csproj",
+              "RelativeToolTip": "src\\Board.Infrastucture\\Board.Infrastucture\\Board.Infrastucture.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-16T11:46:42.108Z",
+              "WhenOpened": "2024-08-17T13:33:00.175Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Dockerfile",
-              "RelativeDocumentMoniker": "src\\Board.Host.Api\\Dockerfile",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Dockerfile",
-              "RelativeToolTip": "src\\Board.Host.Api\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-15T11:01:42.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Board.Host.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "RelativeToolTip": "src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T12:06:40.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Board.Host.Api",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "RelativeToolTip": "src\\Board.Host.Api\\Board.Host.Api.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-13T15:53:37.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NameValidationAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Contracts\\Attributes\\NameValidationAttributes.cs",
-              "RelativeDocumentMoniker": "src\\Board.Contracts\\Attributes\\NameValidationAttributes.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Contracts\\Attributes\\NameValidationAttributes.cs",
-              "RelativeToolTip": "src\\Board.Contracts\\Attributes\\NameValidationAttributes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwB8AAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T12:15:21.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreatePostDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Contracts\\Posts\\CreatePostDto.cs",
-              "RelativeDocumentMoniker": "src\\Board.Contracts\\Posts\\CreatePostDto.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0432\u0435\u0442\u0430\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\asdfasd\\src\\Board.Contracts\\Posts\\CreatePostDto.cs",
-              "RelativeToolTip": "src\\Board.Contracts\\Posts\\CreatePostDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T01:38:04.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAF0IAAAAAAAAAAAgwGgIAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-04-18T12:07:13.023Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -15,7 +15,7 @@ using Board.Application.AppData.Posts.Services;
 using Board.Contracts;
 using Board.Contracts.Posts;
 using Board.Infrastructure.DataAccess.Interfaces;
-using Board.Infrastructure.DataAccess.Contexts;
+using Board.Infrastructure.DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
 
