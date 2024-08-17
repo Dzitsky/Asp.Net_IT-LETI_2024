@@ -10,7 +10,7 @@ namespace Board.Infrastructure.DataAccess.Interfaces
     /// <summary>
     /// Конфигурация контекста
     /// </summary>
-    public interface IDbContextConfiguration<TContext> where TContext : DbContext
+    public interface IDbContextOptionsConfigurator<TContext> where TContext : DbContext
     {
         /// <summary>
         /// Выполняет конфигурацию контекста

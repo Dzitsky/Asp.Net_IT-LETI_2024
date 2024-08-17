@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Board.Infrastructure.DataAccess.Contexts
 {
-    internal class BoardDbContextConfiguration : IDbContextConfiguration<BoardDbContext>
+    public class BoardDbContextConfiguration : IDbContextOptionsConfigurator<BoardDbContext>
     {
 
         private const string PostgesConnectionStringName = "PostgresBoardDb";

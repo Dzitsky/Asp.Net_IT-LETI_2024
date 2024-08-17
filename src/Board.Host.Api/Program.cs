@@ -15,12 +15,13 @@ using Board.Application.AppData.Posts.Services;
 using Board.Contracts;
 using Board.Contracts.Posts;
 using Board.Infrastructure.DataAccess.Interfaces;
+using Board.Infrastructure.DataAccess.Contexts;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 // Добавляем DbContext
-builder.Services.AddSingleton<IDbContextConfiguration<BoardDbContext>, BoardDbContextConfiguration>();
+builder.Services.AddSingleton<IDbContextOptionsConfigurator<BoardDbContext>, BoardDbContextConfiguration>();
 
 builder.Services.AddDbContext<BoardDbContext>((Action<IServiceProvider, DbContextOptionsBuilder>)
     ((sp, dbOptions) => sp.GetRequiredService<IDbContextOptionsConfigurator<BoardDbContext>>()

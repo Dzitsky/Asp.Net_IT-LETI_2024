@@ -12,7 +12,7 @@ namespace Board.Infrastructure.DataAccess.Contexts
     /// <summary>
     /// Контекст БД
     /// </summary>
-    internal class BoardDbContext : DbContext
+    public class BoardDbContext : DbContext
     {
 
         /// <summary>
